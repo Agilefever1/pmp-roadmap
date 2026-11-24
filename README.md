@@ -90,7 +90,7 @@ Before the exam topics, we need the basic language of project management. These 
 - [What is effective communication?](https://agilefever.com/effective-communication-definition-examples-benefits/)
 - Project, program, and portfolio
 - Predictive, Agile, and hybrid approaches
-- Project life cycle and phases
+- [Project life cycle and phases](https://agilefever.com/project-cycle-management/)
 
 ### Step 1: Is PMP Right for You, and Are You Eligible?
 
